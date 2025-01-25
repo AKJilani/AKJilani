@@ -25,6 +25,19 @@ I am passionate about transforming data into meaningful insights and creating ro
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ### Status
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true" />
+</picture>
+
+
 ![akjilani's Stats](https://github-readme-stats.vercel.app/api?username=akjilani&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akjilani&layout=compact&theme=radical&langs_count=10&count_private=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=akjilani&layout=compact&theme=radical&langs_count=10&count_private=true)
