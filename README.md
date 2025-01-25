@@ -1,17 +1,17 @@
-# ?? Abdul Kader Jilani
+# 👋 Abdul Kader Jilani
 
-## ?? Professional Profile
+## 💼 Professional Profile
 **Database Assistant, IT** at [Golden Harvest Infotech Ltd.](https://www.ghitbd.com/)  
 **Web Developer | Data Analyst | Freelancer**
 
 Passionate about transforming data into meaningful insights and creating robust web solutions. With a strong background in database management, data analysis, and web technologies, I bridge the gap between technical complexity and practical innovation.
 
-## ?? Professional Summary
-- ?? Expert in SQL databases, data visualization, and web development
-- ?? Proficient in full-stack development with Python ecosystem
-- ?? Specialized in data analytics and business intelligence solutions
+## 🚀 Professional Summary
+- 💻 Expert in SQL databases, data visualization, and web development
+- 📊 Proficient in full-stack development with Python ecosystem
+- 🔍 Specialized in data analytics and business intelligence solutions
 
-## ??? Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -34,11 +34,11 @@ Passionate about transforming data into meaningful insights and creating robust 
 
 
 
-## ?? Current Focus
-- ?? Advanced-Data Analytics Techniques
-- ?? Scalable Web Development with Flask & Django
+## 🌱 Current Focus
+- 🔬 Advanced Data Analytics Techniques
+- 🌐 Scalable Web Development with Flask & Django
 
-## ?? GitHub Analytics
+## 📊 GitHub Analytics
 
 ### Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
@@ -50,7 +50,7 @@ Passionate about transforming data into meaningful insights and creating robust 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AKJilani&theme=radical&hide_border=false&mode=weekly)](https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true&theme=radical&count_private=true&include_all_commits=true
 )
 
-## ?? Let's Connect
+## 📫 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akjilani691995@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-kader-jilani-67b04a165/)
@@ -59,8 +59,8 @@ Passionate about transforming data into meaningful insights and creating robust 
 
 ---
 
-### ?? Personal Motto
+### 💡 Personal Motto
 > *"Every challenge is an opportunity to learn, grow, and innovate."*
 
-## ?? Profile Views
+## 🌍 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=akjilani&color=blueviolet)
