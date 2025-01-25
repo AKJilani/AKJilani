@@ -10,11 +10,12 @@ I am passionate about **data analysis, database management, and web technologies
 ## 🛠️ Tech Stack & Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
@@ -28,9 +29,16 @@ I am passionate about **data analysis, database management, and web technologies
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=akjilani&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akjilani&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akjilani&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akjilani&theme=radical&hide_border=true)  
+
+---
+
+## 📂 Featured Projects
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=akjilani&repo=repo-name-1&theme=radical)](https://github.com/akjilani/repo-name-1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=akjilani&repo=repo-name-2&theme=radical)](https://github.com/akjilani/repo-name-2)
 
 ---
 
