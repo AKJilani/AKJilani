@@ -45,6 +45,8 @@ Passionate about transforming data into meaningful insights and creating robust 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true&theme=radical&count_private=true)](https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true&theme=radical&count_private=true)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true&theme=radical&count_private=true)](https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true&theme=radical&count_private=true)
+
 
 ### Top Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akjilani&layout=compact&theme=radical&langs_count=10&count_private=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=akjilani&layout=compact&theme=radical&langs_count=10&count_private=true)
