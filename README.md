@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdul Kader Jilani 
 
 💻 **Database Assistant, IT** at [Golden Harvest Infotech Ltd.](https://www.ghitbd.com/)  
-📊 **Data Analyst | Freelancer**  
+📊 **Web Developer | Data Analyst | Freelancer**  
 
 I am passionate about **data analysis, database management, and web technologies**, with a strong background in SQL databases and visualization tools. I also have experience in front-end and back-end development, along with graphic design skills.
 
