@@ -43,6 +43,9 @@ Passionate about transforming data into meaningful insights and creating robust 
 ### Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+
 ### Top Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akjilani&layout=compact&theme=radical&langs_count=10&count_private=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=akjilani&layout=compact&theme=radical&langs_count=10&count_private=true)
 
@@ -55,7 +58,7 @@ Passionate about transforming data into meaningful insights and creating robust 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akjilani691995@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-kader-jilani-67b04a165/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/akjilani?public_mode=true)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://www.fiverr.com/akjilani?public_mode=true)
 
 ---
 
