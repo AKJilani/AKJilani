@@ -1,7 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey!</h1>
 I am passionate about transforming data into meaningful insights and creating robust web solutions. With a strong background in database management, data analysis, and web technologies, I bridge the gap between technical complexity and practical innovation.
 
-### Technology
 - 💻 Expert in SQL databases, data visualization, and web development
 - 📊 Proficient in full-stack development with Python ecosystem using Flask, Django, Jinja2
 - 🔍 Specialized in data analytics and business intelligence solutions
