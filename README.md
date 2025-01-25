@@ -44,11 +44,9 @@ Passionate about transforming data into meaningful insights and creating robust 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akjilani&layout=compact&theme=radical&langs_count=10)
 
 ### Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=akjilani&theme=radical&hide_border=false&mode=weekly)](https://git.io/streak-stats)
-
-## 🏆 Achievements & Certifications
-- 📜 Ongoing Professional Development in Data Science
-- 🎓 Continuous Learning in Emerging Technologies
+![GitHub Streak](https://streak-stats.demolab.com?user=AKJilani&theme=radical&hide_border=false&mode=weekly)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=akjilani&theme=radical&hide_border=false&mode=weekly)
+![GitHub Streak](https://streak-stats.demolab.com?user=AKJilani&theme=radical&hide_border=false&mode=weekly)
 
 ## 📫 Let's Connect
 
