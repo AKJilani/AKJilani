@@ -32,10 +32,6 @@ I am passionate about **data analysis, database management, and web technologies
 - **Designation:** Database Assistant, IT  
 - **Role:** Managing and optimizing databases, providing data-driven insights, and supporting the data process team to clean data to export using SQL.
 
-- - **Company:** Golden Harvest Infotech Ltd.  
-- **Designation:** QC, Production  
-- **Role:** Maintain the Data Quality keyed by Data Entry Operators.  
-
 ---
 
 ## 💼 Freelance Work
