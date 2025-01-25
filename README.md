@@ -25,9 +25,14 @@ Passionate about transforming data into meaningful insights and creating robust 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Databases & BI Tools
+![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MS Access](https://img.shields.io/badge/MS%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+
 
 ## 🌱 Current Focus
 - 🔬 Advanced Data Analytics Techniques
@@ -44,8 +49,6 @@ Passionate about transforming data into meaningful insights and creating robust 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akjilani&layout=compact&theme=radical&langs_count=10)
 
 ### Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=AKJilani&theme=radical&hide_border=false&mode=weekly)](https://git.io/streak-stats)
-![GitHub Streak](https://streak-stats.demolab.com?user=akjilani&theme=radical&hide_border=false&mode=weekly)
 ![GitHub Streak](https://streak-stats.demolab.com?user=AKJilani&theme=radical&hide_border=false&mode=weekly)
 
 ## 📫 Let's Connect
