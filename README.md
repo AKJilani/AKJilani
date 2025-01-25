@@ -37,8 +37,6 @@ Passionate about transforming data into meaningful insights and creating robust 
 ## 🌱 Current Focus
 - 🔬 Advanced Data Analytics Techniques
 - 🌐 Scalable Web Development with Flask & Django
-- 📈 Advanced Power BI Visualizations
-- 🤖 Machine Learning Integration
 
 ## 📊 GitHub Analytics
 
@@ -49,7 +47,8 @@ Passionate about transforming data into meaningful insights and creating robust 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akjilani&layout=compact&theme=radical&langs_count=10)
 
 ### Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=AKJilani&theme=radical&hide_border=false&mode=weekly)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AKJilani&theme=radical&hide_border=false&mode=weekly)](https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true&theme=radical&count_private=true&include_all_commits=true
+)
 
 ## 📫 Let's Connect
 
