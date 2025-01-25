@@ -11,9 +11,9 @@ I am passionate about transforming data into meaningful insights and creating ro
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=for-the-badge&logo=elementor&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MS Access](https://img.shields.io/badge/MS%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -24,10 +24,6 @@ I am passionate about transforming data into meaningful insights and creating ro
 
 ### Status
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-![akjilani's Stats](https://github-readme-stats.vercel.app/api?username=akjilani&theme=darcula&show_icons=true&hide_border=true&count_private=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akjilani&layout=compact&theme=radical&langs_count=10&count_private=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=akjilani&layout=compact&theme=radical&langs_count=10&count_private=true)
 
