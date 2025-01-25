@@ -1,4 +1,4 @@
-# 👋 Hi, This is Jilani here
+# 👋 Hi, This is ABDUL KADER JILANI
 I am passionate about transforming data into meaningful insights and creating robust web solutions. With a strong background in database management, data analysis, and web technologies, I bridge the gap between technical complexity and practical innovation.
 - 💻 Expert in SQL databases, data visualization, and web development
 - 📊 Proficient in full-stack development with Python ecosystem using Flask, Django, Jinja2
