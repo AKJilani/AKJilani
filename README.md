@@ -31,8 +31,7 @@ I am passionate about **data analysis, database management, and web technologies
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akjilani&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=akjilani&theme=radical)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akjilani&theme=radical)
 
 ---
 
