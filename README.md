@@ -51,7 +51,8 @@ I offer my expertise on **Fiverr**, helping clients with database solutions, dat
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true&theme=radical)
+
 
 ---
 
