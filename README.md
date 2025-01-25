@@ -1,6 +1,5 @@
 # 👋 Hi, Welcome to my profile
-I am Passionate about transforming data into meaningful insights and creating robust web solutions. With a strong background in database management, data analysis, and web technologies, I bridge the gap between technical complexity and practical innovation.
-
+I am passionate about transforming data into meaningful insights and creating robust web solutions. With a strong background in database management, data analysis, and web technologies, I bridge the gap between technical complexity and practical innovation.
 - 💻 Expert in SQL databases, data visualization, and web development
 - 📊 Proficient in full-stack development with Python ecosystem using Flask, Django, Jinja2
 - 🔍 Specialized in data analytics and business intelligence solutions
@@ -23,13 +22,14 @@ I am Passionate about transforming data into meaningful insights and creating ro
 ### Status
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akjilani&layout=compact&theme=radical&langs_count=10&count_private=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=akjilani&layout=compact&theme=radical&langs_count=10&count_private=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AKJilani&theme=radical&hide_border=false&mode=weekly)](https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true&theme=radical&count_private=true&include_all_commits=true
 )
 
 ## 📫 Let's Connect
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akjilani691995@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-kader-jilani-67b04a165/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/akjilani?public_mode=true)
@@ -37,11 +37,8 @@ I am Passionate about transforming data into meaningful insights and creating ro
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Ak.jilani6261)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/inalijka_mr.einstein/)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0180a455d6d2dc1a1e)
-
-
 ---
 
-### 💡 Personal Motto
 > *"Every challenge is an opportunity to learn, grow, and innovate."*
 
 ## 🌍 Profile Views
