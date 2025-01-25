@@ -27,6 +27,8 @@ I am passionate about transforming data into meaningful insights and creating ro
 ### Status
 ![akjilani's GitHub stats](https://github-readme-stats.vercel.app/api?username=akjilani&theme=radical&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akjilani)](https://github.com/akjilani/github-readme-stats)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akjilani&layout=compact&theme=radical&langs_count=10&count_private=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=akjilani&layout=compact&theme=radical&langs_count=10&count_private=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AKJilani&theme=radical&hide_border=false&mode=weekly)](https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true&theme=radical&count_private=true&include_all_commits=true
