@@ -2,14 +2,13 @@
 
 ## 💼 Professional Profile
 **Database Assistant, IT** at [Golden Harvest Infotech Ltd.](https://www.ghitbd.com/)  
-**Web Developer | Data Analyst | Freelancer**
+**Web Developer | Data Analyst | Freelancer**  
+Passionate about data-driven insights and robust web solutions. Expertise in databases, data analysis, and web technologies.
 
-Passionate about transforming data into meaningful insights and creating robust web solutions. With a strong background in database management, data analysis, and web technologies, I bridge the gap between technical complexity and practical innovation.
-
-## 🚀 Professional Summary
-- 💻 Expert in SQL databases, data visualization, and web development
-- 📊 Proficient in full-stack development with Python ecosystem
-- 🔍 Specialized in data analytics and business intelligence solutions
+## 🚀 Summary
+- 💻 Expert in SQL, data visualization, and web development  
+- 📊 Full-stack development with Python ecosystem  
+- 🔍 Specializing in data analytics and business intelligence
 
 ## 🛠️ Tech Stack & Skills
 
@@ -32,10 +31,8 @@ Passionate about transforming data into meaningful insights and creating robust 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-
-
-## 🌱 Current Focus
-- 🔬 Advanced Data Analytics Techniques
+## 🌱 Focus Areas
+- 🔬 Advanced Data Analytics  
 - 🌐 Scalable Web Development with Flask & Django
 
 ## 📊 GitHub Analytics
@@ -47,14 +44,12 @@ Passionate about transforming data into meaningful insights and creating robust 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akjilani&layout=compact&theme=radical&langs_count=10&count_private=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=akjilani&layout=compact&theme=radical&langs_count=10&count_private=true)
 
 ### Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=AKJilani&theme=radical&hide_border=false&mode=weekly)](https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true&theme=radical&count_private=true&include_all_commits=true
-)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AKJilani&theme=radical&hide_border=false&mode=weekly)](https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ## 📫 Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akjilani691995@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-kader-jilani-67b04a165/)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/akjilani?public_mode=true)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akjilani691995@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-kader-jilani-67b04a165/)  
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/akjilani?public_mode=true)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio-link.com)
 
 ---
