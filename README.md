@@ -25,11 +25,7 @@ I am passionate about transforming data into meaningful insights and creating ro
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ### Status
-![akjilani's Stats](https://github-readme-stats.vercel.app/api?username=akjilani&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
-
-![akjilani's Stats]([https://github-readme-stats.vercel.app/api?username=akjilani&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=akjilani&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
-
-https://github-readme-stats.vercel.app/api?username=akjilani&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800
+![akjilani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akjilani&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=akjilani's%20GitHub%20Stats&cache_seconds=86400)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akjilani&layout=compact&theme=radical&langs_count=10&count_private=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=akjilani&layout=compact&theme=radical&langs_count=10&count_private=true)
 
