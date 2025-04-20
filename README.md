@@ -33,6 +33,14 @@ I am passionate about transforming data into meaningful insights and creating ro
 [![GitHub Streak](https://streak-stats.demolab.com?user=AKJilani&theme=radical&hide_border=false&mode=weekly)](https://github-readme-stats.vercel.app/api?username=akjilani&show_icons=true&theme=radical&count_private=true&include_all_commits=true
 )
 
+
+![akjilani's Stats](https://github-readme-stats.vercel.app/api?username=akjilani&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akjilani&layout=compact&theme=radical&langs_count=10&count_private=true&include_all_commits=true)](https://github.com/akjilani)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AKJilani&theme=radical&hide_border=false&mode=weekly&include_all_commits=true)](https://github.com/akjilani)
+
+
 ## Find me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akjilani691995@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-kader-jilani-67b04a165/)
