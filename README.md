@@ -1,15 +1,18 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! This is ABDUL KADER JILANI</h1>
 I am passionate about transforming data into meaningful insights and creating robust web solutions. With a strong background in database management, data analysis, and web technologies, I bridge the gap between technical complexity and practical innovation.
 
-### Expertise
-- 💻 Expert in SQL databases, data visualization, and web development
-- 📊 Proficient in full-stack development with Python ecosystem using Flask, Django, Jinja2
-- 🔍 Specialized in data analytics and business intelligence solutions
+💼 Expertise
+
+💻 Full-Stack Web Developer — Specialized in building complete, responsive web applications using HTML5, CSS3, Bootstrap, JavaScript, WordPress, and Elementor, with a focus on modern, user-friendly UI/UX
+🚀 Backend API Developer — Expert in creating scalable REST APIs with FastAPI, Flask, and Django, powering dynamic and secure web applications
+🛠️ Database Developer — Skilled in MSSQL, MySQL, PostgreSQL, MS Access, and SQLite for data-driven solutions, reporting, and custom database designs
+🌐 Experienced in deploying and managing web applications using platforms like Netlify, ensuring fast and reliable delivery
 
 ### Technology
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
