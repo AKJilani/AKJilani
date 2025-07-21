@@ -1,12 +1,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! This is ABDUL KADER JILANI</h1>
-I am passionate about transforming data into meaningful insights and creating robust web solutions. With a strong background in database management, data analysis, and web technologies, I bridge the gap between technical complexity and practical innovation.
+I am passionate about transforming complex data structures into practical solutions and developing robust, scalable web applications that deliver effective results. With deep expertise in database management, backend API development, and modern frontend technologies, I provide end-to-end digital solutions that bridge business needs with technical excellence.
 
 💼 Expertise
 
-💻 Full-Stack Web Developer — Specialized in building complete, responsive web applications using HTML5, CSS3, Bootstrap, JavaScript, WordPress, and Elementor, with a focus on modern, user-friendly UI/UX
-🚀 Backend API Developer — Expert in creating scalable REST APIs with FastAPI, Flask, and Django, powering dynamic and secure web applications
-🛠️ Database Developer — Skilled in MSSQL, MySQL, PostgreSQL, MS Access, and SQLite for data-driven solutions, reporting, and custom database designs
-🌐 Experienced in deploying and managing web applications using platforms like Netlify, ensuring fast and reliable delivery
+- 💻 Full-Stack Web Developer — Specialized in building complete, responsive web applications using HTML5, CSS3, Bootstrap, JavaScript, WordPress, and Elementor, with a focus on modern, user-friendly UI/UX
+- 🚀 Backend API Developer — Expert in creating scalable REST APIs with FastAPI, Flask, and Django, powering dynamic and secure web applications
+- 🛠️ Database Developer — Skilled in MSSQL, MySQL, PostgreSQL, MS Access, and SQLite for data-driven solutions, reporting, and custom database designs
+- 🌐 Experienced in deploying and managing web applications using platforms like Netlify, ensuring fast and reliable delivery
 
 ### Technology
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
